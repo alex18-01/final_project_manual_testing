@@ -8,13 +8,16 @@ Tools used: Jira, Zephyr Squad.
 
 <h2>Functional specifications:</h2>
 
-The below stories were created in Jira and describe the functional specifications of the "**nume_modul**" module, for which the final project is performed upon.
+The below stories were created in Jira and describe the functional specifications of the module, for which the final project is performed upon.
 
-**inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier**
+![story_wishlist](https://github.com/alex18-01/final_project_manual_testing/assets/152299946/d18fbed6-8572-4c08-ad37-75d011235a1d)
+![story_filtre](https://github.com/alex18-01/final_project_manual_testing/assets/152299946/3db34d96-a355-4b61-a50c-f42c23993ad1)
+
 
 Here you can find the release that was created for this project:
 
-**(inserati aici o poza cu release-ul pe care l-ati creat in jira. Atentie, release-ul nu va contine si teste, ci doar epic-uri, story-uri, task-uri, subtaskuri si bug-uri)**
+![release_jira](https://github.com/alex18-01/final_project_manual_testing/assets/152299946/02912d49-e21f-4b43-bc4b-36545662c897)
+
 
 <h2>Testing process</h2>
 
@@ -31,10 +34,10 @@ The plan identifies the items to be tested, the features to be tested, the types
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 
 <ul>
-  <li>**Project manager** - John Smith</li> 
-  <li>**Product owner** - Thomas Brown</li>
-  <li>**Software developer** - Emily Graham</li>
-  <li>**QA Engineer** - Andrei Alexandru Busuioc</li>
+  <li>Project manager - John Smith</li> 
+  <li>Product owner - Thomas Brown</li>
+  <li>Software developer - Emily Graham</li>
+  <li>QA Engineer - Andrei Alexandru Busuioc</li>
 </ul>
 
 <h4> 1.1.2 Entry criteria defined </h4>
@@ -101,7 +104,8 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 Generating periodic reports that reflect the current status of the testing process will provide transparency and reduce possible delays.
 
-**test chart image here**
+![test execution report](https://github.com/alex18-01/final_project_manual_testing/assets/152299946/dd00e311-05f6-4fa0-b8cf-64e42a25ada1)
+
 
 **Test Execution Completion Over Cycles by Status:**
 
@@ -114,11 +118,13 @@ The testing process will be executed based on the application requirements.
 
 The following test conditions were found: <br>
 
-**(aici puteti fie sa puneti o poza din jira cu titlurile tuturor testelor - din issues filtrare dupa type test sau sa scrieti cu bulinuta numele fiecarei conditii de testare pe care ati identificat-o)**
+![lista_testcases](https://github.com/alex18-01/final_project_manual_testing/assets/152299946/1d441235-c5bf-4b03-b362-ad8dc18f2452)
+
 
 <h3>1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here **(inserati linkul catre fisierul cu testele, in format pdf, word sau csv)**
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here: [testcases.xlsx](https://github.com/user-attachments/files/15522291/testcases.xlsx)
+
 
 <h3>1.5 Test Implementation</h3>
 
@@ -135,7 +141,8 @@ The following elements are needed to be ready before the test execution phase be
 
 Test cases are executed on the created Test Cycle summary.
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: **(inserati aici fisierul cu bug-urile pe care le-ati identificat)**
+Bugs have been created based on the failed tests. The complete bug reports can be found here: [bugreports.pdf](https://github.com/user-attachments/files/15522295/bugreports.pdf)
+
 
 The following is a summary of the bugs that have been found:
 * The Button "X" for removing a filter can't be pressed
@@ -146,11 +153,15 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 1.7 Test Completion
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
-The traceability matrix was generated and can be found here: **(inserati aici fie o poza cu matricea de trasabilitate din jira, fie linkul catre fiserul excel exportat din jira cu matricea de trasabilitate. Nu uitati sa faceti filtrare dupa type = story)**
+The traceability matrix was generated and can be found here: 
+
+![traceabilitymatrix](https://github.com/alex18-01/final_project_manual_testing/assets/152299946/e706b29c-157e-494f-9a17-166c82036d43)
+
 
 Test execution chart was generated and can be found below. 
 
-**(inserati aici raportul de executie generat din jira din sectiunea de dashboards)**
+![test execution report](https://github.com/alex18-01/final_project_manual_testing/assets/152299946/55202388-f8b3-4a16-8afb-0d3f3bb9322f)
+
 
 The final report shows that a number 2 tests have failed of a total of 10, but after the second test cycle 0 tests failed.
 
