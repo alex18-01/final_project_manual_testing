@@ -84,16 +84,16 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h5>Project risks:</h5>
 
-  **Communication Issues:** Ineffective communication among the team members, stakeholders, or between development and testing teams.
-  **Lacking Resources:** Insufficient availability of resources for development, testing, or other project activities.
-  **Delays:** Unforeseen challenges or scope changes that lead to project delays.
+  - **Communication Issues:** Ineffective communication among the team members, stakeholders, or between development and testing teams.
+  - **Lacking Resources:** Insufficient availability of resources for development, testing, or other project activities.
+  - **Delays:** Unforeseen challenges or scope changes that lead to project delays.
 
 
 <h5> Product risks: </h5>
 
-**Wishlist Inaccuracy:** Inaccurate results in a user's wishlist.
-**Search Filters Inaccuracy:** Inaccurate results in a user's search due to filters.
-**Usability Issues:** Poor user experience due to usability issues.
+- **Wishlist Inaccuracy:** Inaccurate results in a user's wishlist.
+- **Search Filters Inaccuracy:** Inaccurate results in a user's search due to filters.
+- **Usability Issues:** Poor user experience due to usability issues.
 
 
 <h4>1.1.6 Evaluating entry criteria</h4>
@@ -150,7 +150,7 @@ The following is a summary of the bugs that have been found:
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
-1.7 Test Completion
+<h3>1.7 Test Completion </h3>
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
 The traceability matrix was generated and can be found here: 
