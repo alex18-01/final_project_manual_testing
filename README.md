@@ -43,13 +43,11 @@ The plan identifies the items to be tested, the features to be tested, the types
 <h4> 1.1.2 Entry criteria defined </h4>
 
 1. **Implement a Wishlist Functionality for users:**
-   - **Test Environment:** A stable test environment is set up with the latest build that includes the wishlist feature.
    - **Completion:** The development of the wishlist feature is completed and the feature is deployed in the test environment.
-   - **Test Data**: Relevant test data (credentials, products) are available in the test environment.
    - **Design**: UI/UX designs for the wishlist feature are finalized and approved.
 
 2. **Implement Search Filters for products:**
-   - **Test Environment:** A stable test environment is set up with the latest build that includes the search filters.
+
    - **Completion:** The development of the search filters feature is completed and the feature is deployed in the test environment.
    - **Filter Criteria:** Define and agree upon the criteria for product filters (size, color, brand, price range etc.) and ensure they are documented.
    - **Design**: UI/UX designs for the wishlist feature are finalized and approved.
@@ -129,6 +127,10 @@ Functional test cases were created in Zephyr Squad based on the analysis of the 
 <h3>1.5 Test Implementation</h3>
 
 The following elements are needed to be ready before the test execution phase begins:
+
+- **Test Environment:** A stable test environment is set up with the latest build that includes the wishlist feature.
+- **Test Environment:** A stable test environment is set up with the latest build that includes the search filters.
+- **Test Data**: Relevant test data (credentials, products) are available in the test environment.
 
 * The test cases have been written
 * The story was implemented and was deployed to the testing environment
